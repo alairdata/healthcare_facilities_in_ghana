@@ -1,0 +1,1 @@
+# healthcare_facilities_in_ghana
